@@ -5,7 +5,7 @@ More information about ActionJob can be found in the [Rails Documentation](http:
 
 ## Prerequisites
 
-In this example we start from an new Rails project. You can create a project just by running the `rails new my-actionjob-app`.
+In this example we start from an new Rails project. You can create a project just by running the `rails new my-actionjob-app` command.
 
 ## Adding ActionJob to your project
 
